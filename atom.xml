@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Dev Times]]></title>
-  <link href="http://danwise91.github.io/atom.xml" rel="self"/>
-  <link href="http://danwise91.github.io/"/>
-  <updated>2015-12-03T13:29:01-05:00</updated>
-  <id>http://danwise91.github.io/</id>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-12-06T18:56:26-05:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Daniel Wise]]></name>
     
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[My First Week]]></title>
+    <link href="http://yoursite.com/blog/2015/12/06/my-first-week/"/>
+    <updated>2015-12-06T17:46:56-05:00</updated>
+    <id>http://yoursite.com/blog/2015/12/06/my-first-week</id>
+    <content type="html"><![CDATA[<p>&ldquo;My first week at The Flatiron school was full of its ups and downs. I have been through tough things over the course of my life and this program proves to be one of the toughest. I knew what I had gotten myself into and was ready to work hard. Even the first day proved to be immersive the moment the class began, when we started to work on creating our own profiles. My mind had at first gone blank with everything I had learned about HTML and CSS during the pre-work. When the lectures had begun we began diving deep into the meaning of yielding to blocks a topic which I had found to be difficult to understand. To my surprise so did a lot of my other fellow classmates. After the lecture I found that I had a better understanding of how yield worked in code. Object orientation seemed to be a lesson that I at first found easy to follow. However, when we started labs I found that I didn&rsquo;t quite understand Object Orientation as well as I thought. It was a simple concept that just got more complicated over time. Another deceptive concept that seems so simple is self. Although self simply identifies a variable when it is called, it is figuring out when to use self that can be a bit confusing. One lab that scared me was the API lab. The moment I first opened it I just felt that I couldn&rsquo;t complete it. Luckily after working on it a bit I managed to figure it out and actually found the information interesting and useful. The whole concept of the API lab was pretty much communicating with the website Twitter to retrieve information. Although the labs are challenging I see it that I am learning new things everyday. This is why I plan to keep going forward with this program.&rdquo;</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[My First Post on Octopress]]></title>
-    <link href="http://danwise91.github.io/blog/2015/12/03/my-first-post-on-octopress/"/>
+    <link href="http://yoursite.com/blog/2015/12/03/my-first-post-on-octopress/"/>
     <updated>2015-12-03T13:23:56-05:00</updated>
-    <id>http://danwise91.github.io/blog/2015/12/03/my-first-post-on-octopress</id>
+    <id>http://yoursite.com/blog/2015/12/03/my-first-post-on-octopress</id>
     <content type="html"><![CDATA[<p>&ldquo;Hello, World!&rdquo;</p>
 ]]></content>
   </entry>
